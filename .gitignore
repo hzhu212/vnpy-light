@@ -121,5 +121,6 @@ dmypy.json
 
 /vnpy/api/**/wrapper/*
 !/vnpy/api/**/wrapper/generate*.py
+!/vnpy/api/**/wrapper/README.md
 !/vnpy/api/**/wrapper/header
 !/vnpy/api/**/wrapper/template
